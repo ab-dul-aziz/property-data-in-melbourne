@@ -60,6 +60,6 @@ You can explore the interactive visualizations and insights in Tableau at the fo
 ## **About Me**
 
 Abdul Aziz <br>
-LinkedIn: [Abdul Aziz](https://www.linkedin.com/in/abdul-aziz-50a869185)
+LinkedIn: [Abdul Aziz](https://www.linkedin.com/in/abdul-aziz-data-enthusiast/)
 
 
